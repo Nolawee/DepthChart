@@ -1,0 +1,1 @@
+You can run this application in the maven terminal or by importing the pom.xml file into a new intellij or eclipse project. 
